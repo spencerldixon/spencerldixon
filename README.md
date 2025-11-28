@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**spencerldixon/spencerldixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Spencer, a senior Ruby + Python Developer with over 10 years of experience working across public, private and non-profit sectors.
 
-Here are some ideas to get you started:
+I like solving hard and interesting problems with tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find my work in UK Government Digital Services and powering global conservation efforts.
+
+## Tech
+
+I work mostly with Ruby and/or Python, but always enjoy learning new things
+
+- Ruby / Rails
+- Python / Django / FastAPI
+- Javascript
+- Hotwire / Turbo / Stimulus
+- Postgres
+- Docker
+- React.js
+  
+## Contact me
+
+I'm open to interesting opportunities, you can find my email on my website or the side bar here
