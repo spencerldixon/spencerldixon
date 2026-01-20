@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm Spencer, a senior Ruby + Python Developer with over 10 years of experience working across public, private and non-profit sectors.
+I'm Spencer, a senior Ruby + Python Developer with over 11 years of experience working across public, private and non-profit sectors.
 
 I like solving hard and interesting problems with tech.
 
