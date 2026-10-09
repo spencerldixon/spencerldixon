@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm Spencer, a senior Ruby + Python Developer with over 11 years of experience working across public, private and non-profit sectors.
+I'm Spencer, a senior software engineer with over 12 years of experience working across public, private and non-profit sectors.
 
 I like solving hard and interesting problems with tech.
 
@@ -13,10 +13,13 @@ I work mostly with Ruby and/or Python, but always enjoy learning new things
 - Ruby / Rails
 - Python / Django / FastAPI
 - Javascript
-- Hotwire / Turbo / Stimulus
-- Postgres
-- Docker
 - React.js
+- Hotwire / Turbo / Stimulus
+- Go
+- Docker
+- Terraform
+- Ansible
+- AWS
   
 ## 📫 Contact me
 
